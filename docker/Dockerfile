@@ -1,1 +1,1 @@
-FROM java:8
+FROM centos:7
